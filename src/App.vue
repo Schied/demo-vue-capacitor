@@ -1,4 +1,5 @@
 <template>
+  Hola mundo
   <HelloWorld/>
 </template>
 
